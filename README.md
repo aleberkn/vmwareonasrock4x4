@@ -11,9 +11,9 @@
  http://console.redhat.com
  
  
- #add realtek nic drivers to esxi6.7.0 software depot \
+ #add realtek nic drivers to esxi6.7.0 software depot 
  
- on linux run pwsh to enter the powershell emulator \
+ on linux run pwsh to enter the powershell emulator 
  
  
  
